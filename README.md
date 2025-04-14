@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+<p>
+  My introduce
+</p>
+
+### 💪 Skills
+#### Platforms & Languages
+
 <!--
 **mrkayhyun/mrkayhyun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
