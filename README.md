@@ -72,5 +72,6 @@ Go 언어로 경량화 백엔드도 시도하며
 - Email: `mrkayhyun@gmail.com`
 - Phone: +82-010-3491-1105  
 - Blog: [https://blog.naver.com/nanansia]([https://your-blog.com](https://blog.naver.com/nanansia))  
-
+> **외주 작업 및 기타 문의는 위 이메일로 연락 부탁드립니다.**  
+> For freelance inquiries or other questions, feel free to reach out via email.
 ---
